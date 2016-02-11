@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.boliviawebdesign.android_orders.AddProduct"/>
+      <point      
+        x = "2388"      
+        y = "-456"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.boliviawebdesign.android_orders.ViewOrders"/>
+      <point      
+        x = "2304"      
+        y = "1208"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.boliviawebdesign.android_orders.AddToInventory"/>
+      <point      
+        x = "2180"      
+        y = "2844"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.boliviawebdesign.android_orders.AddToOrder"/>
+      <point      
+        x = "3156"      
+        y = "1260"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.boliviawebdesign.android_orders.MainActivity"/>
+      <point      
+        x = "252"      
+        y = "-164"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
